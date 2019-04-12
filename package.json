@@ -1,0 +1,19 @@
+{
+  "name": "neural_network_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/langyo/neural_network_test.git"
+  },
+  "author": "langyo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/langyo/neural_network_test/issues"
+  },
+  "homepage": "https://github.com/langyo/neural_network_test#readme"
+}
